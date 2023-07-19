@@ -6,7 +6,7 @@ const Sectione = () => {
     <div className="pt-[189px] mx-4 max-w-[1280px] lg:mx-auto">
       <div className="flex flex-col justify-center items-center">
         <h2 className="font-bold text-[35px]">Lorem ipsum dolor sit .</h2>
-        <div className="relative mt-20 h-[1100px] lg:w-[1000px] xl:w-[1100px] bg-[#F8FAFC] rounded-[20px] drop-shadow-2xl">
+        <div className="relative mt-20 h-[1100px] lg:h-[363px] lg:w-[1000px] xl:w-[1100px] bg-[#F8FAFC] rounded-[20px] drop-shadow-2xl">
           <div className="pt-10 pl-10 flex items-center space-x-3">
             <Image src={"/images/6-06.png"} height={64} width={64} />
             <p className="text-[25px] font-bold">Lorem ipsum dolor sit .</p>
@@ -96,7 +96,7 @@ const Sectione = () => {
         <h1 className="text-[35px] font-bold">
           Lorem ipsum dolor sit amet,consectetur adipiscing elit.
         </h1>
-        <div className="flex lg:flex-row flex-col space-y-32 lg:space-x-52 pt-[142px]">
+        <div className="flex lg:flex-row flex-col space-y-32 lg:space-y-0 lg:space-x-52 pt-[142px]">
           <div className="flex flex-col items-center space-y-5">
             <Image src={"/images/fire.png"} height={58} width={185} />
             <p className="text-lg font-bold">Forms On Fire</p>

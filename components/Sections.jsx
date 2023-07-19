@@ -2,7 +2,7 @@ import React from "react";
 
 const Sections = () => {
   return (
-    <div className="bg-[#F8FAFC]">
+    <div className="bg-[#F8FAFC] pb-[163px]">
       <div className="max-w-[1280px] ml-4 mr-0 xl:mx-auto  pt-32 flex flex-col items-center justify-center ">
         <div>
           <h1 className="text-[35px] font-bold">

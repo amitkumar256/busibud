@@ -3,7 +3,7 @@ import React from "react";
 
 const Sectiont = () => {
   return (
-    <div className="max-w-[1280px] pt-[136px] mx-auto ">
+    <div className="max-w-[1280px]  mx-auto ">
       <div className="flex lg:flex-row flex-col justify-center space-y-10 lg:space-y-0 items-center lg:justify-between lg:space-x-14">
         <div className="flex flex-col">
           <Image src={"/images/Artwork 20.png"} height={157} width={242} />
