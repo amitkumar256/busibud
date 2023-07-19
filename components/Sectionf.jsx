@@ -4,7 +4,7 @@ import React from "react";
 const Sectionf = () => {
   return (
     <div className="  ">
-      <div className="max-w-[1280px] mx-auto flex justify-between items-center">
+      <div className="max-w-[1280px] ml-4 xl:mx-auto flex lg:flex-row flex-col space-y-4 justify-between items-center">
         <div>
           <h2 className="text-[40px] max-w-[550px] leading-[154%] font-bold">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.

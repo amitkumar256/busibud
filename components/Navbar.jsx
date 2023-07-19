@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <div className="max-w-[1280px]  mx-auto flex flex-col justify-center items-center space-y-8 mt-5">
         <Image src={"/images/nav.png"} height={50} width={165}></Image>
-        <div className="flex space-x-14 text-[19px] font-bold">
+        <div className="grid grid-cols-4 md:grid-cols-8 space-x-14 text-[19px] font-bold">
           <h3>Nav1</h3>
           <h3>Nav2</h3>
           <h3>
