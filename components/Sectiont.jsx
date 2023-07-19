@@ -45,14 +45,14 @@ const Sectiont = () => {
           </div>
         </div>
       </div>
-      <div className="pt-[138px] flex flex-col ">
+      <div className="ml-4 lg:ml-0 pt-[138px] flex flex-col ">
         <div className="flex justify-center">
           <h2 className="text-[35px] font-bold">
             Lorem ipsum dolor sit amet,consectetur adipiscing elit.
           </h2>
         </div>
 
-        <div className="pt-[105px] ">
+        <div className=" pt-[105px] ">
           <div className="flex  items-center space-x-10">
             <Image src={"/images/save-money.png"} height={70} width={70} />
             <p className="text-[24px] font-bold">Lorem ipsum dolor sit .</p>
